@@ -1,0 +1,28 @@
+.calcInput{
+	padding:2px;
+	margin:20px;
+	font-size:18px;
+	text-align:right; 
+}
+
+#div_calc { border: solid yellow 10px;
+background:  #fc0;
+width: 440px; }
+
+.calcNum:hover
+{
+	background-color:rgba(255,215,48,0.8);
+}
+
+.calcNum
+{
+	margin:5px;
+    border:1px solid red;
+    text-decoration:none;
+	width:100px;
+	height:100px;
+    font-family:helvetica;
+    color:black;
+	font-size:18px;
+	background-color:rgba(255,255,255,0.00);
+}
